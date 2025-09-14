@@ -1,4 +1,5 @@
 📊 E-Commerce Sales Analytics Dashboard
+
 🔹 Objective of the Project
 
 The primary objective of this project is to design and develop a predictive and interactive e-commerce sales analytics dashboard that helps businesses understand customer behavior, track sales performance, identify top-selling products, and forecast future sales. Unlike a static dashboard, this solution integrates machine learning pipelines to provide intelligent insights through customer segmentation and sales forecasting, enabling better business decision-making.
@@ -122,5 +123,6 @@ Dataset is currently limited in size; results may differ on large-scale data.
 Requires real-time database connection for production use.
 
 🔹 Conclusion
+
 
 This project goes beyond traditional dashboards by embedding machine learning intelligence into sales analytics. With modular pipelines, feature engineering, and Streamlit integration, it creates a bridge between raw data and actionable insights—helping businesses understand customers, optimize operations, and plan for the future. 🚀
